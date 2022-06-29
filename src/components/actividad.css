@@ -1,0 +1,26 @@
+
+.actividad_input {
+    width: 800px;
+    border-radius: 0.25em;
+    border: 1px black solid;
+    margin: 0.5em;
+}
+
+.actividad_input>h2 {
+    margin: 1em;
+    margin-bottom: 0.5em;
+}
+
+.actividad_input>input,textarea {
+    width: 770px;
+    margin: 0.5em 1em;
+}
+
+.actividad_input>textarea {
+    height: 5em;
+}
+
+.actividad_input>.bar_recursos *{
+    display: inline;
+    margin: 1em 0.5em;
+}
